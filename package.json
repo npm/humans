@@ -1,0 +1,23 @@
+{
+  "name": "npm-humans",
+  "version": "1.0.0",
+  "description": "An array of npm employees",
+  "main": "humans.json",
+  "scripts": {
+    "test": "echo i am a computer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/humans"
+  },
+  "keywords": [
+    "npm",
+    "humans"
+  ],
+  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npm/humans/issues"
+  },
+  "homepage": "https://github.com/npm/humans"
+}
