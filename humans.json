@@ -1,12 +1,72 @@
-[
-  "bcoe",
-  "ceejbot",
-  "iarna",
-  "isaacs",
-  "linclark",
-  "othiym23",
-  "rockbot",
-  "rod",
-  "seldo",
-  "zeke"
-]
+{
+  "bcoe": {
+    "email": "ben@npmjs.com",
+    "github": "bcoe",
+    "name": "Ben Coe",
+    "twitter": "BenjaminCoe",
+    "username": "bcoe"
+  },
+  "ceejbot": {
+    "email": "ceej@npmjs.com",
+    "github": "ceejbot",
+    "name": "CJ Silverio",
+    "username": "ceejbot",
+    "twitter": "ceejbot"
+  },
+  "iarna": {
+    "email": "rebecca@npmjs.com",
+    "github": "iarna",
+    "username": "iarna",
+    "name": "Rebecca Turner",
+    "twitter": "ReBeccaOrg"
+  },
+  "isaacs": {
+    "email": "isaacs@npmjs.com",
+    "github": "isaacs",
+    "name": "Isaac Schlueter",
+    "username": "isaacs",
+    "twitter": "izs"
+  },
+  "linclark": {
+    "email": "lin@npmjs.com",
+    "github": "linclark",
+    "name": "Lin Clark",
+    "twitter": "linclark",
+    "username": "linclark"
+  },
+  "othiym23": {
+    "email": "forrest@npmjs.com",
+    "github": "othiym23",
+    "name": "Forrest Norvell",
+    "username": "othiym23",
+    "twitter": "othiym23"
+  },
+  "rockbot": {
+    "email": "raquel@npmjs.com",
+    "github": "rockbot",
+    "name": "Raquel Vélez",
+    "username": "rockbot",
+    "twitter": "rockbot"
+  },
+  "rod": {
+    "email": "rod@npmjs.com",
+    "github": "rod11",
+    "name": "Rod Boothby",
+    "username": "rod",
+    "twitter": "rod11"
+  },
+  "seldo": {
+    "email": "laurie@npmjs.com",
+    "github": "seldo",
+    "name": "Laurie Voss",
+    "username": "seldo",
+    "twitter": "seldo"
+  },
+  "zeke": {
+    "email": "zeke@npmjs.com",
+    "github": "zeke",
+    "name": "Zeke Sikelianos",
+    "username": "zeke",
+    "twitter": "zeke"
+  }
+}
