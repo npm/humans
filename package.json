@@ -1,7 +1,7 @@
 {
   "name": "npm-humans",
   "version": "2.0.1",
-  "description": "An array of npm employees",
+  "description": "The humans behind npm, Inc",
   "main": "humans.json",
   "scripts": {
     "test": "echo i am a computer"
