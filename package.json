@@ -2,9 +2,9 @@
   "name": "npm-humans",
   "version": "2.0.6",
   "description": "The humans behind npm, Inc",
-  "main": "humans.json",
+  "main": "index.js",
   "scripts": {
-    "test": "echo i am a computer"
+    "test": "tap test"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/npm/humans/issues"
   },
-  "homepage": "https://github.com/npm/humans"
+  "homepage": "https://github.com/npm/humans",
+  "dependencies": {
+    "gravatar": "^1.1.0"
+  },
+  "devDependencies": {
+    "tap": "^0.7.1"
+  }
 }
