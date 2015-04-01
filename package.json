@@ -4,6 +4,9 @@
   "description": "The humans behind npm, Inc",
   "main": "index.js",
   "scripts": {
+    "doc": "node lib/doc.js > README.md",
+    "build": "npm run doc",
+    "prepublish": "npm run build",
     "test": "tap test"
   },
   "repository": {
@@ -24,6 +27,7 @@
     "gravatar": "^1.1.0"
   },
   "devDependencies": {
+    "handlebars": "^3.0.0",
     "tap": "^0.7.1"
   }
 }
