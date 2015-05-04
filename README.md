@@ -101,3 +101,12 @@ The humans behind npm, Inc
 - [twitter.com/zeke](https://twitter.com/zeke)
 
 ---
+![Ernie Salazar](https://secure.gravatar.com/avatar/98014649279dcef04f67ee307e3b9597?size=512&default=retro)
+
+## Ernie Salazar
+
+- [npmjs.com/~ehsalazar](https://npmjs.com/~ehsalazar)
+- [github.com/ehsalazar](https://github.com/ehsalazar)
+- [twitter.com/ehsalazar](https://twitter.com/ehsalazar)
+
+---
