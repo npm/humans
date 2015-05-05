@@ -92,15 +92,6 @@ The humans behind npm, Inc
 - [twitter.com/seldo](https://twitter.com/seldo)
 
 ---
-![Zeke Sikelianos](https://secure.gravatar.com/avatar/fd135247e752fe8cbefc5b8c1eb8cc4a?size=512&default=retro)
-
-## Zeke Sikelianos
-
-- [npmjs.com/~zeke](https://npmjs.com/~zeke)
-- [github.com/zeke](https://github.com/zeke)
-- [twitter.com/zeke](https://twitter.com/zeke)
-
----
 ![Ernie Salazar](https://secure.gravatar.com/avatar/98014649279dcef04f67ee307e3b9597?size=512&default=retro)
 
 ## Ernie Salazar
