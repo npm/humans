@@ -75,5 +75,12 @@
     "name": "Ernie Salazar",
     "username": "ehsalazar",
     "twitter": "ehsalazar"
+  },
+  "soldair": {
+    "email": "ryan@npmjs.com",
+    "github": "soldair",
+    "name": "Ryan Day",
+    "username": "soldair",
+    "twitter": "soldair"
   }
 }
