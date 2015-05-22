@@ -101,3 +101,12 @@ The humans behind npm, Inc
 - [twitter.com/ehsalazar](https://twitter.com/ehsalazar)
 
 ---
+![Ryan Day](https://secure.gravatar.com/avatar/1690146e2ba9215eedc67d655e17a772?size=512&default=retro)
+
+## Ryan Day
+
+- [npmjs.com/~soldair](https://npmjs.com/~soldair)
+- [github.com/soldair](https://github.com/soldair)
+- [twitter.com/soldair](https://twitter.com/soldair)
+
+---
