@@ -110,3 +110,12 @@ The humans behind npm, Inc
 - [twitter.com/soldair](https://twitter.com/soldair)
 
 ---
+![Kat Marchán](https://secure.gravatar.com/avatar/768592911aab8695ca2d7bf0b8c889dd?size=512&default=retro)
+
+## Kat Marchán
+
+- [npmjs.com/~zkat](https://npmjs.com/~zkat)
+- [github.com/zkat](https://github.com/zkat)
+- [twitter.com/maybekatz](https://twitter.com/maybekatz)
+
+---
