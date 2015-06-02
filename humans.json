@@ -82,5 +82,12 @@
     "name": "Ryan Day",
     "username": "soldair",
     "twitter": "soldair"
+  },
+  "zkat": {
+    "email": "kat@npmjs.com",
+    "github": "zkat",
+    "name": "Kat Marchán",
+    "username": "zkat",
+    "twitter": "maybekatz"
   }
 }
