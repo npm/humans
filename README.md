@@ -49,7 +49,7 @@ The humans behind npm, Inc
 ---
 ![Forrest Norvell](https://secure.gravatar.com/avatar/ce77f6b36f3ab54b124805a8d8cfae69?size=512&default=retro)
 
-## Forrest Norvell
+## Forrest L Norvell
 
 - [npmjs.com/~othiym23](https://npmjs.com/~othiym23)
 - [github.com/othiym23](https://github.com/othiym23)
