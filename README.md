@@ -119,3 +119,12 @@ The humans behind npm, Inc
 - [twitter.com/maybekatz](https://twitter.com/maybekatz)
 
 ---
+## Shivani Negi
+
+![Shivani Negi](https://secure.gravatar.com/avatar/e358a14089bb6cd49259d5f70ba856e0?size=512&default=retro)
+
+- [npmjs.com/~imshivs](https://npmjs.com/~imshivs)
+- [github.com/imshivs](https://github.com/imshivs)
+- [twitter.com/imshivs](https://twitter.com/imshivs)
+
+---
