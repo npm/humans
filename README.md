@@ -47,7 +47,7 @@ The humans behind npm, Inc
 - [twitter.com/linclark](https://twitter.com/linclark)
 
 ---
-![Forrest Norvell](https://secure.gravatar.com/avatar/ce77f6b36f3ab54b124805a8d8cfae69?size=512&default=retro)
+![Forrest L Norvell](https://secure.gravatar.com/avatar/ce77f6b36f3ab54b124805a8d8cfae69?size=512&default=retro)
 
 ## Forrest L Norvell
 
@@ -119,12 +119,12 @@ The humans behind npm, Inc
 - [twitter.com/maybekatz](https://twitter.com/maybekatz)
 
 ---
+![Shivani Negi](https://secure.gravatar.com/avatar/07502ef4fa66fbed6f3e0ff93f15c229?size=512&default=retro)
+
 ## Shivani Negi
 
-![Shivani Negi](https://secure.gravatar.com/avatar/e358a14089bb6cd49259d5f70ba856e0?size=512&default=retro)
-
 - [npmjs.com/~imshivs](https://npmjs.com/~imshivs)
-- [github.com/imshivs](https://github.com/imshivs)
+- [github.com/bcoe](https://github.com/bcoe)
 - [twitter.com/imshivs](https://twitter.com/imshivs)
 
 ---
