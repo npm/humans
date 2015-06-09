@@ -28,6 +28,6 @@
   },
   "devDependencies": {
     "handlebars": "^3.0.0",
-    "tap": "^0.7.1"
+    "tap": "~1.2.0"
   }
 }
