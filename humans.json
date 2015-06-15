@@ -90,11 +90,18 @@
     "username": "zkat",
     "twitter": "maybekatz"
   },
-    "imshivs":{
+  "imshivs":{
     "email": "shivani@npmjs.com",
     "github": "bcoe",
     "name": "Shivani Negi",
     "twitter": "imshivs",
     "username":"imshivs"
+  },
+  "jefflembeck": {
+    "email": "jeff@npmjs.com",
+    "github": "jefflembeck",
+    "name": "Jeff Lembeck",
+    "username": "jlembeck",
+    "twitter": "jefflembeck"
   }
 }
