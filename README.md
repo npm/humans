@@ -128,3 +128,12 @@ The humans behind npm, Inc
 - [twitter.com/imshivs](https://twitter.com/imshivs)
 
 ---
+![Jeff Lembeck](https://secure.gravatar.com/avatar/fbde8f880f6cf850936f435d3e6222f0?size=512&default=retro)
+
+## Jeff Lembeck
+
+- [npmjs.com/~jlembeck](https://npmjs.com/~jlembeck)
+- [github.com/jefflembeck](https://github.com/jefflembeck)
+- [twitter.com/jefflembeck](https://twitter.com/jefflembeck)
+
+---
