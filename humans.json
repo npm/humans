@@ -103,5 +103,12 @@
     "name": "Jeff Lembeck",
     "username": "jlembeck",
     "twitter": "jefflembeck"
+  },
+  "chrisdickinson": {
+    "email": "chris@npmjs.com",
+    "github": "chrisdickinson",
+    "name": "Chris Dickinson",
+    "username": "chrisdickinson",
+    "twitter": "isntitvacant"
   }
 }

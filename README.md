@@ -137,3 +137,12 @@ The humans behind npm, Inc
 - [twitter.com/jefflembeck](https://twitter.com/jefflembeck)
 
 ---
+![Chris Dickinson](https://secure.gravatar.com/avatar/f67fcc0fa4da8cb7ad71e0b709127bdd?size=512&default=retro)
+
+## Chris Dickinson
+
+- [npmjs.com/~chrisdickinson](https://npmjs.com/~chrisdickinson)
+- [github.com/chrisdickinson](https://github.com/chrisdickinson)
+- [twitter.com/isntitvacant](https://twitter.com/isntitvacant)
+
+---
