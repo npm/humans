@@ -146,3 +146,30 @@ The humans behind npm, Inc
 - [twitter.com/isntitvacant](https://twitter.com/isntitvacant)
 
 ---
+![Stephanie Snopek](https://secure.gravatar.com/avatar/57001f7e524a3a41e642c4d94f3a1024?size=512&default=retro)
+
+## Stephanie Snopek
+
+- [npmjs.com/~snopeks](https://npmjs.com/~snopeks)
+- [github.com/snopeks](https://github.com/snopeks)
+- [twitter.com/StephSnopek](https://twitter.com/StephSnopek)
+
+---
+![Emily Ross-Brown](https://secure.gravatar.com/avatar/8437920cd04156e65d66c71e1b3ed3a7?size=512&default=retro)
+
+## Emily Ross-Brown
+
+- [npmjs.com/~](https://npmjs.com/~)
+- [github.com/](https://github.com/)
+- [twitter.com/EmilyUna65](https://twitter.com/EmilyUna65)
+
+---
+![Kasey Byrne](https://secure.gravatar.com/avatar/1c584aa7477f9ba4ef591194ec2811d6?size=512&default=retro)
+
+## Kasey Byrne
+
+- [npmjs.com/~codingdino](https://npmjs.com/~codingdino)
+- [github.com/kaseybyrne](https://github.com/kaseybyrne)
+- [twitter.com/kaseybyrne](https://twitter.com/kaseybyrne)
+
+---

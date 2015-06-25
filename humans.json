@@ -110,5 +110,26 @@
     "name": "Chris Dickinson",
     "username": "chrisdickinson",
     "twitter": "isntitvacant"
+  },
+  "stephaniesnopek": {
+    "email": "stephanie@npmjs.com",
+    "github": "snopeks",
+    "name": "Stephanie Snopek",
+    "username": "snopeks",
+    "twitter": "StephSnopek"
+  },
+  "emilyrossbrown": {
+    "email": "emily@npmjs.com",
+    "github": "",
+    "name": "Emily Ross-Brown",
+    "username": "",
+    "twitter": "EmilyUna65"
+  },
+  "kaseybyrne": {
+    "email": "kasey@npmjs.com",
+    "github": "kaseybyrne",
+    "name": "Kasey Byrne",
+    "username": "codingdino",
+    "twitter": "kaseybyrne"
   }
 }
