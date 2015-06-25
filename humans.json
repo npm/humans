@@ -13,12 +13,33 @@
     "username": "ceejbot",
     "twitter": "ceejbot"
   },
-  "iarna": {
-    "email": "rebecca@npmjs.com",
-    "github": "iarna",
-    "username": "iarna",
-    "name": "Rebecca Turner",
-    "twitter": "ReBeccaOrg"
+  "chrisdickinson": {
+    "email": "chris@npmjs.com",
+    "github": "chrisdickinson",
+    "name": "Chris Dickinson",
+    "username": "chrisdickinson",
+    "twitter": "isntitvacant"
+  },
+  "emilyrossbrown": {
+    "email": "emily@npmjs.com",
+    "github": "",
+    "name": "Emily Ross-Brown",
+    "username": "",
+    "twitter": "EmilyUna65"
+  },
+  "ehsalazar": {
+    "email": "ernie@npmjs.com",
+    "github": "ehsalazar",
+    "name": "Ernie Salazar",
+    "username": "ehsalazar",
+    "twitter": "ehsalazar"
+  },
+  "othiym23": {
+    "email": "forrest@npmjs.com",
+    "github": "othiym23",
+    "name": "Forrest L Norvell",
+    "username": "othiym23",
+    "twitter": "othiym23"
   },
   "isaacs": {
     "email": "isaacs@npmjs.com",
@@ -27,19 +48,40 @@
     "username": "isaacs",
     "twitter": "izs"
   },
+  "jefflembeck": {
+    "email": "jeff@npmjs.com",
+    "github": "jefflembeck",
+    "name": "Jeff Lembeck",
+    "username": "jlembeck",
+    "twitter": "jefflembeck"
+  },
+  "kaseybyrne": {
+    "email": "kasey@npmjs.com",
+    "github": "kaseybyrne",
+    "name": "Kasey Byrne",
+    "username": "codingdino",
+    "twitter": "kaseybyrne"
+  },
+  "zkat": {
+    "email": "kat@npmjs.com",
+    "github": "zkat",
+    "name": "Kat Marchán",
+    "username": "zkat",
+    "twitter": "maybekatz"
+  },
+  "seldo": {
+    "email": "laurie@npmjs.com",
+    "github": "seldo",
+    "name": "Laurie Voss",
+    "username": "seldo",
+    "twitter": "seldo"
+  },
   "linclark": {
     "email": "lin@npmjs.com",
     "github": "linclark",
     "name": "Lin Clark",
     "twitter": "linclark",
     "username": "linclark"
-  },
-  "othiym23": {
-    "email": "forrest@npmjs.com",
-    "github": "othiym23",
-    "name": "Forrest L Norvell",
-    "username": "othiym23",
-    "twitter": "othiym23"
   },
   "mmalecki": {
     "email": "maciej@npmjs.com",
@@ -55,26 +97,19 @@
     "username": "rockbot",
     "twitter": "rockbot"
   },
+  "iarna": {
+    "email": "rebecca@npmjs.com",
+    "github": "iarna",
+    "username": "iarna",
+    "name": "Rebecca Turner",
+    "twitter": "ReBeccaOrg"
+  },
   "rod": {
     "email": "rod@npmjs.com",
     "github": "rod11",
     "name": "Rod Boothby",
     "username": "rod",
     "twitter": "rod11"
-  },
-  "seldo": {
-    "email": "laurie@npmjs.com",
-    "github": "seldo",
-    "name": "Laurie Voss",
-    "username": "seldo",
-    "twitter": "seldo"
-  },
-  "ehsalazar": {
-    "email": "ernie@npmjs.com",
-    "github": "ehsalazar",
-    "name": "Ernie Salazar",
-    "username": "ehsalazar",
-    "twitter": "ehsalazar"
   },
   "soldair": {
     "email": "ryan@npmjs.com",
@@ -83,13 +118,6 @@
     "username": "soldair",
     "twitter": "soldair"
   },
-  "zkat": {
-    "email": "kat@npmjs.com",
-    "github": "zkat",
-    "name": "Kat Marchán",
-    "username": "zkat",
-    "twitter": "maybekatz"
-  },
   "imshivs":{
     "email": "shivani@npmjs.com",
     "github": "bcoe",
@@ -97,39 +125,11 @@
     "twitter": "imshivs",
     "username":"imshivs"
   },
-  "jefflembeck": {
-    "email": "jeff@npmjs.com",
-    "github": "jefflembeck",
-    "name": "Jeff Lembeck",
-    "username": "jlembeck",
-    "twitter": "jefflembeck"
-  },
-  "chrisdickinson": {
-    "email": "chris@npmjs.com",
-    "github": "chrisdickinson",
-    "name": "Chris Dickinson",
-    "username": "chrisdickinson",
-    "twitter": "isntitvacant"
-  },
   "stephaniesnopek": {
     "email": "stephanie@npmjs.com",
     "github": "snopeks",
     "name": "Stephanie Snopek",
     "username": "snopeks",
     "twitter": "StephSnopek"
-  },
-  "emilyrossbrown": {
-    "email": "emily@npmjs.com",
-    "github": "",
-    "name": "Emily Ross-Brown",
-    "username": "",
-    "twitter": "EmilyUna65"
-  },
-  "kaseybyrne": {
-    "email": "kasey@npmjs.com",
-    "github": "kaseybyrne",
-    "name": "Kasey Byrne",
-    "username": "codingdino",
-    "twitter": "kaseybyrne"
   }
 }
