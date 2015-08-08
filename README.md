@@ -2,6 +2,15 @@
 
 The humans behind npm, Inc
 
+![Aria Stewart](https://s.gravatar.com/avatar/e0eccc9bc06acd278fff4fbcac94a5f3?size=512&default=retro)
+
+## Aria Stewart
+
+- [npmjs.com/~aredridel](https://npmjs.com/~aredridel)
+- [github.com/aredridel](https://github.com/aredridel)
+- [twitter.com/aredridel](https://twitter.com/aredridel)
+
+---
 ![Ben Coe](https://s.gravatar.com/avatar/463ec992a0ae0613c917f3513aadac23?size=512&default=retro)
 
 ## Ben Coe
