@@ -2,6 +2,15 @@
 
 The humans behind npm, Inc
 
+![Nick Cawthon](https://en.gravatar.com/userimage/9383261/ed1284aa82c5e6dfd4865dcb4aa92134.png?size=512)
+
+## Nick Cawthon
+
+- [npmjs.com/~ncawthon](https://npmjs.com/~ncawthon)
+- [github.com/ncawthon](https://github.com/ncawthon)
+- [twitter.com/ncawthon](https://twitter.com/ncawthon)
+
+---
 ![Aria Stewart](https://s.gravatar.com/avatar/e0eccc9bc06acd278fff4fbcac94a5f3?size=512&default=retro)
 
 ## Aria Stewart
