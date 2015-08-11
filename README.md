@@ -2,15 +2,6 @@
 
 The humans behind npm, Inc
 
-![Nick Cawthon](https://s.gravatar.com/avatar/aca89facef5d85d1c1c4078cde4786d1?size=512&default=retro)
-
-## Nick Cawthon
-
-- [npmjs.com/~ncawthon](https://npmjs.com/~ncawthon)
-- [github.com/ncawthon](https://github.com/ncawthon)
-- [twitter.com/ncawthon](https://twitter.com/ncawthon)
-
----
 ![Aria Stewart](https://s.gravatar.com/avatar/e0eccc9bc06acd278fff4fbcac94a5f3?size=512&default=retro)
 
 ## Aria Stewart
@@ -29,15 +20,6 @@ The humans behind npm, Inc
 - [twitter.com/BenjaminCoe](https://twitter.com/BenjaminCoe)
 
 ---
-![CJ Silverio](https://s.gravatar.com/avatar/d4d41847af095b91aa8ed1d1145f5e03?size=512&default=retro)
-
-## CJ Silverio
-
-- [npmjs.com/~ceejbot](https://npmjs.com/~ceejbot)
-- [github.com/ceejbot](https://github.com/ceejbot)
-- [twitter.com/ceejbot](https://twitter.com/ceejbot)
-
----
 ![Chris Dickinson](https://s.gravatar.com/avatar/f67fcc0fa4da8cb7ad71e0b709127bdd?size=512&default=retro)
 
 ## Chris Dickinson
@@ -45,6 +27,15 @@ The humans behind npm, Inc
 - [npmjs.com/~chrisdickinson](https://npmjs.com/~chrisdickinson)
 - [github.com/chrisdickinson](https://github.com/chrisdickinson)
 - [twitter.com/isntitvacant](https://twitter.com/isntitvacant)
+
+---
+![CJ Silverio](https://s.gravatar.com/avatar/d4d41847af095b91aa8ed1d1145f5e03?size=512&default=retro)
+
+## CJ Silverio
+
+- [npmjs.com/~ceejbot](https://npmjs.com/~ceejbot)
+- [github.com/ceejbot](https://github.com/ceejbot)
+- [twitter.com/ceejbot](https://twitter.com/ceejbot)
 
 ---
 ![Emily Ross-Brown](https://s.gravatar.com/avatar/8437920cd04156e65d66c71e1b3ed3a7?size=512&default=retro)
@@ -135,6 +126,15 @@ The humans behind npm, Inc
 - [npmjs.com/~mmalecki](https://npmjs.com/~mmalecki)
 - [github.com/mmalecki](https://github.com/mmalecki)
 - [twitter.com/maciejmalecki](https://twitter.com/maciejmalecki)
+
+---
+![Nick Cawthon](https://s.gravatar.com/avatar/aca89facef5d85d1c1c4078cde4786d1?size=512&default=retro)
+
+## Nick Cawthon
+
+- [npmjs.com/~ncawthon](https://npmjs.com/~ncawthon)
+- [github.com/ncawthon](https://github.com/ncawthon)
+- [twitter.com/ncawthon](https://twitter.com/ncawthon)
 
 ---
 ![Raquel Vélez](https://s.gravatar.com/avatar/8983147be8e3bf0dec0ff9d20bd156f3?size=512&default=retro)
