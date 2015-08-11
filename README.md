@@ -2,7 +2,7 @@
 
 The humans behind npm, Inc
 
-![Nick Cawthon](https://en.gravatar.com/userimage/9383261/ed1284aa82c5e6dfd4865dcb4aa92134.png?size=512)
+![Nick Cawthon](https://s.gravatar.com/avatar/aca89facef5d85d1c1c4078cde4786d1?size=512&default=retro)
 
 ## Nick Cawthon
 
@@ -92,6 +92,15 @@ The humans behind npm, Inc
 - [twitter.com/jefflembeck](https://twitter.com/jefflembeck)
 
 ---
+![Jonathan E Cowperthwait](https://s.gravatar.com/avatar/2b1aad19f4ce5b485acc74dea754b919?size=512&default=retro)
+
+## Jonathan E Cowperthwait
+
+- [npmjs.com/~jec](https://npmjs.com/~jec)
+- [github.com/cowperthwait](https://github.com/cowperthwait)
+- [twitter.com/cowperthwait](https://twitter.com/cowperthwait)
+
+---
 ![Kasey Byrne](https://s.gravatar.com/avatar/1c584aa7477f9ba4ef591194ec2811d6?size=512&default=retro)
 
 ## Kasey Byrne
@@ -117,15 +126,6 @@ The humans behind npm, Inc
 - [npmjs.com/~seldo](https://npmjs.com/~seldo)
 - [github.com/seldo](https://github.com/seldo)
 - [twitter.com/seldo](https://twitter.com/seldo)
-
----
-![Lin Clark](https://s.gravatar.com/avatar/1f7a1ba084facf35880b58946588f388?size=512&default=retro)
-
-## Lin Clark
-
-- [npmjs.com/~linclark](https://npmjs.com/~linclark)
-- [github.com/linclark](https://github.com/linclark)
-- [twitter.com/linclark](https://twitter.com/linclark)
 
 ---
 ![Maciej Małecki](https://s.gravatar.com/avatar/29b404e8480fa29174d150f87eab50cd?size=512&default=retro)
@@ -178,7 +178,7 @@ The humans behind npm, Inc
 ## Shivani Negi
 
 - [npmjs.com/~imshivs](https://npmjs.com/~imshivs)
-- [github.com/bcoe](https://github.com/bcoe)
+- [github.com/imshivs](https://github.com/imshivs)
 - [twitter.com/imshivs](https://twitter.com/imshivs)
 
 ---
