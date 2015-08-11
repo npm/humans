@@ -62,6 +62,13 @@
     "username": "jlembeck",
     "twitter": "jefflembeck"
   },
+  "jec": {
+    "email": "jec@npmjs.com",
+    "github": "cowperthwait",
+    "name": "Jonathan E Cowperthwait",
+    "username": "jec",
+    "twitter": "cowperthwait"
+  },
   "codingdino": {
     "email": "kasey@npmjs.com",
     "github": "kaseybyrne",
@@ -82,13 +89,6 @@
     "name": "Laurie Voss",
     "username": "seldo",
     "twitter": "seldo"
-  },
-  "linclark": {
-    "email": "lin@npmjs.com",
-    "github": "linclark",
-    "name": "Lin Clark",
-    "twitter": "linclark",
-    "username": "linclark"
   },
   "mmalecki": {
     "email": "maciej@npmjs.com",
@@ -127,7 +127,7 @@
   },
   "imshivs":{
     "email": "shivani@npmjs.com",
-    "github": "bcoe",
+    "github": "imshivs",
     "name": "Shivani Negi",
     "twitter": "imshivs",
     "username":"imshivs"
