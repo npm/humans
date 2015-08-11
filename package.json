@@ -1,6 +1,6 @@
 {
   "name": "npm-humans",
-  "version": "2.10.1",
+  "version": "2.10.2",
   "description": "The humans behind npm, Inc",
   "main": "index.js",
   "scripts": {

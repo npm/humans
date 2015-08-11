@@ -1,11 +1,4 @@
 {
-  "ncawthon": {
-    "email": "nick@npmjs.com",
-    "github": "ncawthon",
-    "name": "Nick Cawthon",
-    "twitter": "ncawthon",
-    "username": "ncawthon"
-  },
   "aredridel": {
     "email": "aria@npmjs.com",
     "github": "aredridel",
@@ -20,19 +13,19 @@
     "twitter": "BenjaminCoe",
     "username": "bcoe"
   },
-  "ceejbot": {
-    "email": "ceej@npmjs.com",
-    "github": "ceejbot",
-    "name": "CJ Silverio",
-    "username": "ceejbot",
-    "twitter": "ceejbot"
-  },
   "chrisdickinson": {
     "email": "chris@npmjs.com",
     "github": "chrisdickinson",
     "name": "Chris Dickinson",
     "username": "chrisdickinson",
     "twitter": "isntitvacant"
+  },
+  "ceejbot": {
+    "email": "ceej@npmjs.com",
+    "github": "ceejbot",
+    "name": "CJ Silverio",
+    "username": "ceejbot",
+    "twitter": "ceejbot"
   },
   "emilyrossbrown": {
     "email": "emily@npmjs.com",
@@ -103,6 +96,13 @@
     "name": "Maciej Małecki",
     "username": "mmalecki",
     "twitter": "maciejmalecki"
+  },
+  "ncawthon": {
+    "email": "nick@npmjs.com",
+    "github": "ncawthon",
+    "name": "Nick Cawthon",
+    "twitter": "ncawthon",
+    "username": "ncawthon"
   },
   "rockbot": {
     "email": "raquel@npmjs.com",
