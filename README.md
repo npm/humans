@@ -20,6 +20,15 @@ The humans behind npm, Inc
 - [twitter.com/aredridel](https://twitter.com/aredridel)
 
 ---
+![ashley williams](https://s.gravatar.com/avatar/9f92576ec4100c01f10a3dd423cec873?size=512&default=retro)
+
+## ashley williams
+
+- [npmjs.com/~ag_dubs](https://npmjs.com/~ag_dubs)
+- [github.com/ashleygwilliams](https://github.com/ashleygwilliams)
+- [twitter.com/ag_dubs](https://twitter.com/ag_dubs)
+
+---
 ![Ben Coe](https://s.gravatar.com/avatar/463ec992a0ae0613c917f3513aadac23?size=512&default=retro)
 
 ## Ben Coe
