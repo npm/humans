@@ -110,6 +110,15 @@ The humans behind npm, Inc
 - [twitter.com/cowperthwait](https://twitter.com/cowperthwait)
 
 ---
+![Jonathan Barronville](https://s.gravatar.com/avatar/858eafca39f159c2a3686c42606fcdf0?size=512&default=retro)
+
+## Jonathan Barronville
+
+- [npmjs.com/~jonathanmarvens](https://npmjs.com/~jonathanmarvens)
+- [github.com/jonathanmarvens](https://github.com/jonathanmarvens)
+- [twitter.com/jonathanmarvens](https://twitter.com/jonathanmarvens)
+
+---
 ![Kasey Byrne](https://s.gravatar.com/avatar/1c584aa7477f9ba4ef591194ec2811d6?size=512&default=retro)
 
 ## Kasey Byrne
