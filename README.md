@@ -2,6 +2,15 @@
 
 The humans behind npm, Inc
 
+![Andrew Goode](https://s.gravatar.com/avatar/c318f3bf2571b30a9932ecc730e0788b?size=512&default=retro)
+
+## Andrew Goode
+
+- [npmjs.com/~nexdrew](https://npmjs.com/~nexdrew)
+- [github.com/nexdrew](https://github.com/nexdrew)
+- [twitter.com/nexdrew](https://twitter.com/nexdrew)
+
+---
 ![Angela Eichner](https://s.gravatar.com/avatar/040113a9cfdcd6ef6e9fed4e25a9f4ac?size=512&default=retro)
 
 ## Angela Eichner
