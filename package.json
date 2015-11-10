@@ -24,10 +24,10 @@
   },
   "homepage": "https://github.com/npm/humans",
   "dependencies": {
-    "gravatar": "^1.1.0"
+    "gravatar": "^1.4.0"
   },
   "devDependencies": {
-    "handlebars": "^3.0.0",
-    "tap": "~1.2.0"
+    "handlebars": "^3.0.3",
+    "tap": "^1.2.1"
   }
 }
