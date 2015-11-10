@@ -69,8 +69,6 @@ The humans behind npm, Inc
 
 ## Emily Ross-Brown
 
-- [npmjs.com/~](https://npmjs.com/~)
-- [github.com/](https://github.com/)
 - [twitter.com/EmilyUna65](https://twitter.com/EmilyUna65)
 
 ---
