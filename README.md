@@ -171,6 +171,15 @@ The humans behind npm, Inc
 - [twitter.com/ncawthon](https://twitter.com/ncawthon)
 
 ---
+![Nicole Sullivan](http://1.gravatar.com/avatar/1d153775485e41e8474b115e2b30413d?s=512&default=retro)
+
+## Nicole Sullivan
+
+- [npmjs.com/~stubbornella](https://npmjs.com/~stubbornella)
+- [github.com/stubbornella](https://github.com/stubbornella)
+- [twitter.com/stubbornella](https://twitter.com/stubbornella)
+
+---
 ![Raquel Vélez](https://s.gravatar.com/avatar/8983147be8e3bf0dec0ff9d20bd156f3?size=512&default=retro)
 
 ## Raquel Vélez
