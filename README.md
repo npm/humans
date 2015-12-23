@@ -171,7 +171,7 @@ The humans behind npm, Inc
 - [twitter.com/ncawthon](https://twitter.com/ncawthon)
 
 ---
-![Nicole Sullivan](http://1.gravatar.com/avatar/1d153775485e41e8474b115e2b30413d?s=512&default=retro)
+![Nicole Sullivan](https://s.gravatar.com/avatar/3b10e85fcb4ae4a6d2444b1454c59689?size=512&default=retro)
 
 ## Nicole Sullivan
 
