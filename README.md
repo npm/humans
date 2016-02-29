@@ -117,24 +117,6 @@ The humans behind npm, Inc
 - [twitter.com/cowperthwait](https://twitter.com/cowperthwait)
 
 ---
-![Jonathan Barronville](https://s.gravatar.com/avatar/858eafca39f159c2a3686c42606fcdf0?size=512&default=retro)
-
-## Jonathan Barronville
-
-- [npmjs.com/~jonathanmarvens](https://npmjs.com/~jonathanmarvens)
-- [github.com/jonathanmarvens](https://github.com/jonathanmarvens)
-- [twitter.com/jonathanmarvens](https://twitter.com/jonathanmarvens)
-
----
-![Kasey Byrne](https://s.gravatar.com/avatar/1c584aa7477f9ba4ef591194ec2811d6?size=512&default=retro)
-
-## Kasey Byrne
-
-- [npmjs.com/~codingdino](https://npmjs.com/~codingdino)
-- [github.com/kaseybyrne](https://github.com/kaseybyrne)
-- [twitter.com/kaseybyrne](https://twitter.com/kaseybyrne)
-
----
 ![Kat Marchán](https://s.gravatar.com/avatar/768592911aab8695ca2d7bf0b8c889dd?size=512&default=retro)
 
 ## Kat Marchán
@@ -160,15 +142,6 @@ The humans behind npm, Inc
 - [npmjs.com/~mmalecki](https://npmjs.com/~mmalecki)
 - [github.com/mmalecki](https://github.com/mmalecki)
 - [twitter.com/maciejmalecki](https://twitter.com/maciejmalecki)
-
----
-![Nick Cawthon](https://s.gravatar.com/avatar/aca89facef5d85d1c1c4078cde4786d1?size=512&default=retro)
-
-## Nick Cawthon
-
-- [npmjs.com/~ncawthon](https://npmjs.com/~ncawthon)
-- [github.com/ncawthon](https://github.com/ncawthon)
-- [twitter.com/ncawthon](https://twitter.com/ncawthon)
 
 ---
 ![Nicole Sullivan](https://s.gravatar.com/avatar/3b10e85fcb4ae4a6d2444b1454c59689?size=512&default=retro)

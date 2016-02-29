@@ -90,20 +90,6 @@
     "username": "jec",
     "twitter": "cowperthwait"
   },
-  "jonathanmarvens": {
-    "email": "barronville@npmjs.com",
-    "github": "jonathanmarvens",
-    "name": "Jonathan Barronville",
-    "twitter": "jonathanmarvens",
-    "username": "jonathanmarvens"
-  },
-  "codingdino": {
-    "email": "kasey@npmjs.com",
-    "github": "kaseybyrne",
-    "name": "Kasey Byrne",
-    "username": "codingdino",
-    "twitter": "kaseybyrne"
-  },
   "zkat": {
     "email": "kat@npmjs.com",
     "github": "zkat",
@@ -124,13 +110,6 @@
     "name": "Maciej Małecki",
     "username": "mmalecki",
     "twitter": "maciejmalecki"
-  },
-  "ncawthon": {
-    "email": "nick@npmjs.com",
-    "github": "ncawthon",
-    "name": "Nick Cawthon",
-    "twitter": "ncawthon",
-    "username": "ncawthon"
   },
   "stubbornella": {
     "email": "nicole@npmjs.com",
