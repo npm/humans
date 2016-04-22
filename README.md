@@ -126,6 +126,15 @@ The humans behind npm, Inc
 - [twitter.com/maybekatz](https://twitter.com/maybekatz)
 
 ---
+![Kiera Manion-Fischer](https://s.gravatar.com/avatar/998e72c5f7f022c94566a7691c751f98?size=512&default=retro)
+
+## Kiera Manion-Fischer
+
+- [npmjs.com/~kmanion](https://npmjs.com/~kmanion)
+- [github.com/kmanion](https://github.com/kmanion)
+- [twitter.com/KManion](https://twitter.com/KManion)
+
+---
 ![Laurie Voss](https://s.gravatar.com/avatar/82e25a6a2c3de354135cf4ff0348ff74?size=512&default=retro)
 
 ## Laurie Voss
