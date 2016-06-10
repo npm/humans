@@ -216,3 +216,12 @@ The humans behind npm, Inc
 - [twitter.com/StephSnopek](https://twitter.com/StephSnopek)
 
 ---
+![Emma Ramirez](https://s.gravatar.com/avatar/293638c04394ecd845869a406821ae6f?size=512&default=retro)
+
+## Emma Ramirez
+
+- [npmjs.com/~emmaramirez](https://npmjs.com/~emmaramirez)
+- [github.com/emmaramirez](https://github.com/emmaramirez)
+- [twitter.com/EmmaGRamirez](https://twitter.com/EmmaGRamirez)
+
+---

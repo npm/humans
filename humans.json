@@ -166,5 +166,12 @@
     "name": "Stephanie Snopek",
     "username": "snopeks",
     "twitter": "StephSnopek"
+  },
+  "emmaramirez": {
+    "email": "emma@npmjs.com",
+    "github": "emmaramirez",
+    "name": "Emma Ramirez",
+    "username": "emmaramirez",
+    "twitter": "EmmaGRamirez"
   }
 }
