@@ -1,4 +1,18 @@
 {
+  "amzod": {
+    "email": "andrea@npmjs.com",
+    "github": "amzod",
+    "name": "Andrea Zodrow",
+    "twitter": "am_zod",
+    "username": "amzod"
+  },
+  "gabra": {
+    "email": "jerry@npmjs.com",
+    "github": "gabra",
+    "name": "Jerry Gabra",
+    "twitter": "jerrygabra",
+    "username": "gabra"
+  },
   "nexdrew": {
     "email": "andrew@npmjs.com",
     "github": "nexdrew",

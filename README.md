@@ -2,6 +2,24 @@
 
 The humans behind npm, Inc
 
+![Andrea Zodrow](https://s.gravatar.com/avatar/6f4e9122f79e3efb269101b1bb23850e?size=512&default=retro)
+
+## Andrea Zodrow
+
+- [npmjs.com/~amzod](https://npmjs.com/~amzod)
+- [github.com/amzod](https://github.com/amzod)
+- [twitter.com/am_zod](https://twitter.com/am_zod)
+
+---
+![Jerry Gabra](https://s.gravatar.com/avatar/a1893c8e2070cf6affa23475d6b697ce?size=512&default=retro)
+
+## Jerry Gabra
+
+- [npmjs.com/~gabra](https://npmjs.com/~gabra)
+- [github.com/gabra](https://github.com/gabra)
+- [twitter.com/jerrygabra](https://twitter.com/jerrygabra)
+
+---
 ![Andrew Goode](https://s.gravatar.com/avatar/c318f3bf2571b30a9932ecc730e0788b?size=512&default=retro)
 
 ## Andrew Goode
