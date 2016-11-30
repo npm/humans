@@ -11,15 +11,6 @@ The humans behind npm, Inc
 - [twitter.com/nexdrew](https://twitter.com/nexdrew)
 
 ---
-![Angela Eichner](https://s.gravatar.com/avatar/040113a9cfdcd6ef6e9fed4e25a9f4ac?size=512&default=retro)
-
-## Angela Eichner
-
-- [npmjs.com/~saleswombat](https://npmjs.com/~saleswombat)
-- [github.com/eichnera](https://github.com/eichnera)
-- [twitter.com/npmangela](https://twitter.com/npmangela)
-
----
 ![Aria Stewart](https://s.gravatar.com/avatar/e0eccc9bc06acd278fff4fbcac94a5f3?size=512&default=retro)
 
 ## Aria Stewart
@@ -180,15 +171,6 @@ The humans behind npm, Inc
 - [twitter.com/ReBeccaOrg](https://twitter.com/ReBeccaOrg)
 
 ---
-![Rod Boothby](https://s.gravatar.com/avatar/8ec2fe66ea889bd4b02616327f3a11e2?size=512&default=retro)
-
-## Rod Boothby
-
-- [npmjs.com/~rod](https://npmjs.com/~rod)
-- [github.com/rod11](https://github.com/rod11)
-- [twitter.com/rod11](https://twitter.com/rod11)
-
----
 ![Ryan Day](https://s.gravatar.com/avatar/1690146e2ba9215eedc67d655e17a772?size=512&default=retro)
 
 ## Ryan Day
@@ -198,15 +180,6 @@ The humans behind npm, Inc
 - [twitter.com/soldair](https://twitter.com/soldair)
 
 ---
-![Shivani Negi](https://s.gravatar.com/avatar/07502ef4fa66fbed6f3e0ff93f15c229?size=512&default=retro)
-
-## Shivani Negi
-
-- [npmjs.com/~imshivs](https://npmjs.com/~imshivs)
-- [github.com/imshivs](https://github.com/imshivs)
-- [twitter.com/imshivs](https://twitter.com/imshivs)
-
----
 ![Stephanie Snopek](https://s.gravatar.com/avatar/57001f7e524a3a41e642c4d94f3a1024?size=512&default=retro)
 
 ## Stephanie Snopek
@@ -214,14 +187,5 @@ The humans behind npm, Inc
 - [npmjs.com/~snopeks](https://npmjs.com/~snopeks)
 - [github.com/snopeks](https://github.com/snopeks)
 - [twitter.com/StephSnopek](https://twitter.com/StephSnopek)
-
----
-![Emma Ramirez](https://s.gravatar.com/avatar/293638c04394ecd845869a406821ae6f?size=512&default=retro)
-
-## Emma Ramirez
-
-- [npmjs.com/~emmaramirez](https://npmjs.com/~emmaramirez)
-- [github.com/emmaramirez](https://github.com/emmaramirez)
-- [twitter.com/EmmaGRamirez](https://twitter.com/EmmaGRamirez)
 
 ---
