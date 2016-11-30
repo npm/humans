@@ -6,13 +6,6 @@
     "twitter": "nexdrew",
     "username": "nexdrew"
   },
-  "saleswombat": {
-    "email": "angela@npmjs.com",
-    "github": "eichnera",
-    "name": "Angela Eichner",
-    "twitter": "npmangela",
-    "username": "saleswombat"
-  },
   "aredridel": {
     "email": "aria@npmjs.com",
     "github": "aredridel",
@@ -139,13 +132,6 @@
     "name": "Rebecca Turner",
     "twitter": "ReBeccaOrg"
   },
-  "rod": {
-    "email": "rod@npmjs.com",
-    "github": "rod11",
-    "name": "Rod Boothby",
-    "username": "rod",
-    "twitter": "rod11"
-  },
   "soldair": {
     "email": "ryan@npmjs.com",
     "github": "soldair",
@@ -153,25 +139,11 @@
     "username": "soldair",
     "twitter": "soldair"
   },
-  "imshivs":{
-    "email": "shivani@npmjs.com",
-    "github": "imshivs",
-    "name": "Shivani Negi",
-    "twitter": "imshivs",
-    "username":"imshivs"
-  },
   "snopeks": {
     "email": "stephanie@npmjs.com",
     "github": "snopeks",
     "name": "Stephanie Snopek",
     "username": "snopeks",
     "twitter": "StephSnopek"
-  },
-  "emmaramirez": {
-    "email": "emma@npmjs.com",
-    "github": "emmaramirez",
-    "name": "Emma Ramirez",
-    "username": "emmaramirez",
-    "twitter": "EmmaGRamirez"
   }
 }
