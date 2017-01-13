@@ -29,15 +29,6 @@ The humans behind npm, Inc
 - [twitter.com/nexdrew](https://twitter.com/nexdrew)
 
 ---
-![Aria Stewart](https://s.gravatar.com/avatar/e0eccc9bc06acd278fff4fbcac94a5f3?size=512&default=retro)
-
-## Aria Stewart
-
-- [npmjs.com/~aredridel](https://npmjs.com/~aredridel)
-- [github.com/aredridel](https://github.com/aredridel)
-- [twitter.com/aredridel](https://twitter.com/aredridel)
-
----
 ![ashley williams](https://s.gravatar.com/avatar/9f92576ec4100c01f10a3dd423cec873?size=512&default=retro)
 
 ## ashley williams
@@ -88,15 +79,6 @@ The humans behind npm, Inc
 - [npmjs.com/~ehsalazar](https://npmjs.com/~ehsalazar)
 - [github.com/ehsalazar](https://github.com/ehsalazar)
 - [twitter.com/ehsalazar](https://twitter.com/ehsalazar)
-
----
-![Forrest L Norvell](https://s.gravatar.com/avatar/ce77f6b36f3ab54b124805a8d8cfae69?size=512&default=retro)
-
-## Forrest L Norvell
-
-- [npmjs.com/~othiym23](https://npmjs.com/~othiym23)
-- [github.com/othiym23](https://github.com/othiym23)
-- [twitter.com/othiym23](https://twitter.com/othiym23)
 
 ---
 ![Isaac Schlueter](https://s.gravatar.com/avatar/ddb0fb1047efe1e5cd05649744edd90d?size=512&default=retro)
@@ -160,15 +142,6 @@ The humans behind npm, Inc
 - [npmjs.com/~mmalecki](https://npmjs.com/~mmalecki)
 - [github.com/mmalecki](https://github.com/mmalecki)
 - [twitter.com/maciejmalecki](https://twitter.com/maciejmalecki)
-
----
-![Nicole Sullivan](https://s.gravatar.com/avatar/3b10e85fcb4ae4a6d2444b1454c59689?size=512&default=retro)
-
-## Nicole Sullivan
-
-- [npmjs.com/~stubbornella](https://npmjs.com/~stubbornella)
-- [github.com/stubbornella](https://github.com/stubbornella)
-- [twitter.com/stubbornella](https://twitter.com/stubbornella)
 
 ---
 ![Raquel Vélez](https://s.gravatar.com/avatar/8983147be8e3bf0dec0ff9d20bd156f3?size=512&default=retro)
